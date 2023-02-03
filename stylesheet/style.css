@@ -100,7 +100,9 @@ footer img{
         background-image: url("./assets/bg-image.png"); 
         background-size: cover;
         background-attachment: fixed;
-        margin-top: 30px;
+        margin-top: 50px;
+       
+        background-position: center ;
     }
     .navbar{
         display: flex;
@@ -109,7 +111,7 @@ footer img{
     ul{
        display: flex;
        justify-content: space-around;
-       gap: 5px;
+       gap: 14px;
        list-style: none;
        color: #ffc233;
        margin-top: 2px;
@@ -120,26 +122,26 @@ footer img{
      font-size: 13px;
     }
     header img{
-        line-height: 3.5rem;
-        width: 3.5rem;
+        line-height: 4.3rem;
+        width: 4.3rem;
         margin-left: 4px;
     }
     .order{
         margin-left: 2px;
         margin-right: 4px;
-        line-height: 18px;
-        width: 45px;
+        line-height: 23px;
+        width: 55px;
         color: #f5f5ef;
         background-color: #ff505f;
         border: none;
         cursor: pointer;
         font-weight: 400;
         padding: 1px 7px;
-        font-size: x-small;
+        font-size: small;
         letter-spacing: 0.5px;
     }
     .middlepage{
-        margin-top: 40px;
+        margin-top: 60px;
         /* max-width: 1300px; */
        max-width: 30rem;
         text-align: center;
@@ -149,7 +151,7 @@ footer img{
         justify-content: center;
         color: #ffc233;
         font-family: "Dela Gothic One", cursive;
-        font-size: 35px;
+        font-size: 4px;
         font-weight: 400;
         line-height: 70px;
         
@@ -158,26 +160,26 @@ footer img{
         display: inline-block;
         justify-content: center;
         align-items: center;
-        padding: 3px 14px;
-        margin-top: 20px;
-        line-height: 18px;
+        padding: 5px 20px;
+        margin-top: 46px;
+        line-height: 23px;
         /* text-align: center;
         width: fit-content; */
         border: none;
         color: #ffff;
         background-color: #ff505f;
-        font-weight: 400;
+        font-weight: 600;
         letter-spacing: 0.5px;
         cursor: pointer;
-        font-size: x-small;
+        font-size: small;
         
     }
     footer img{
         position: absolute;
-        bottom: 110px;
+        bottom: 5px;
         right: 4px;
-        height: 70px;
-        width: 70px;
+        height: 90px;
+        width: 90px;
         font-size: large;
         background-attachment: fixed;
         background-size: cover;
