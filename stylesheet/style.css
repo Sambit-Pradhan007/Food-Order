@@ -84,4 +84,6 @@ footer img{
     height: 110px;
     width: 120px;
     font-size: large;
+    background-attachment: fixed;
+    background-size: cover;
 }
